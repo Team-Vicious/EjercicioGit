@@ -1,3 +1,8 @@
 modificacion 1 (luciano)
+<<<<<<< HEAD
 modificacion joaquin
 modificacion mauro
+=======
+modificacion joaquin agregado.
+modificacion sebastian 1
+>>>>>>> b50f54bde7798ab94c22a9fa75401a354d019bb2
